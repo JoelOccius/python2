@@ -46,4 +46,15 @@ if  quantitySold > objective:
     ("we have reached the iPhone sales target")
 
 
+    revenu_store_1 =2250
+    revenu_store_2 = 2220
+
+    if revenu_store_1 == revenu_store_2:
+        print("les revenus sont egaux")
+    
+else:
+    print("les revenus sont differents")
+
+
+
 
