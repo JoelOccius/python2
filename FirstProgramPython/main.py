@@ -39,21 +39,35 @@
 #Marge = Profit - storecost
 #print(Marge)
 
-objective = 50000
-quantitySold = 65300
+# objective = 50000
+# quantitySold = 65300
 
-if  quantitySold > objective:
-    ("we have reached the iPhone sales target")
+# if  quantitySold > objective:
+    # ("we have reached the iPhone sales target")
 
 
-    revenu_store_1 =2250
-    revenu_store_2 = 2220
+    # revenu_store_1 =2250
+    # revenu_store_2 = 2220
 
-    if revenu_store_1 == revenu_store_2:
-        print("les revenus sont egaux")
+    # if revenu_store_1 == revenu_store_2:
+        # print("les revenus sont egaux")
     
+# else:
+    # print("les revenus sont differents")
+
+
+Name_her = "Roseberline"
+Name_his = "Joel"
+
+print(Name_her)
+print(Name_his)
+if Name_her:
+    print("The people live in the appatment A 3")
+elif Name_his:
+    print("The people live in the appatment A 3")
 else:
-    print("les revenus sont differents")
+    print("The people not live in the appatment A 3")
+  
 
 
 
